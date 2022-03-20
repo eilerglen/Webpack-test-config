@@ -1,3 +1,4 @@
+import './styles/index.css'
 console.log("Hey!")
 
 const numbers = [2,3,5]
